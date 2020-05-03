@@ -87,8 +87,8 @@ Cote d'Ivoire,CIV,952,14,310
 Tunisia,TUN,909,38,190
 Nigeria,NGA,873,28,197
 Cyprus,CYP,790,13,98
-Guinea,GIN,761,6,164
 Latvia,LVA,761,11,133
+Guinea,GIN,761,6,164
 Andorra,AND,723,37,309
 Diamond Princess,,712,13,644
 Lebanon,LBN,682,22,113
@@ -150,8 +150,8 @@ Sierra Leone,SLE,61,0,6
 Libya,LBY,59,1,15
 Benin,BEN,54,1,27
 Guinea-Bissau,GNB,50,0,3
-Macau,MAC,45,0,26
 Nepal,NPL,45,0,7
+Macau,MAC,45,0,26
 Syria,SYR,42,3,6
 Mozambique,MOZ,41,0,8
 Eritrea,ERI,39,0,6
@@ -161,24 +161,24 @@ Eswatini,SWZ,31,1,8
 Zimbabwe,ZWE,28,4,2
 Angola,AGO,25,2,6
 Antigua and Barbuda,ATG,24,3,10
-Timor-Leste,TLS,23,0,1
 Malawi,MWI,23,3,3
+Timor-Leste,TLS,23,0,1
 Botswana,BWA,22,1,0
 Laos,LAO,19,0,4
-Belize,BLZ,18,2,2
 Fiji,FJI,18,0,8
+Belize,BLZ,18,2,2
 Dominica,DMA,16,0,9
 Namibia,NAM,16,0,6
-Saint Lucia,LCA,15,0,15
 Grenada,GRD,15,0,6
 Saint Kitts and Nevis,KNA,15,0,1
+Saint Lucia,LCA,15,0,15
 Central African Republic,CAF,14,0,10
 Saint Vincent and the Grenadines,VCT,13,0,3
-Burundi,BDI,11,1,4
 Seychelles,SYC,11,0,5
-Suriname,SUR,10,1,6
-Nicaragua,NIC,10,2,7
+Burundi,BDI,11,1,4
 Gambia,GMB,10,1,2
+Nicaragua,NIC,10,2,7
+Suriname,SUR,10,1,6
 Holy See,VAT,9,0,2
 Papua New Guinea,PNG,8,0,0
 Mauritania,MRT,7,1,6
